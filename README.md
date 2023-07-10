@@ -6,8 +6,8 @@
 <thead>
 <tr>
 <th><a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/OkayDonkey"><img src="https://avatars.githubusercontent.com/u/122771632?v=4" width="100%" style="max-width: 100%;"></a></th>
-<th><a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/gami03"><img src="https://user-images.githubusercontent.com/39688690/119251673-b9d9e500-bbe2-11eb-83ff-655027ef6d14.png" width="100%" style="max-width: 100%;"></a></th>
-<th><a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/CCTTBG"><img src="https://avatars.githubusercontent.com/u/122771632?v=4" width="100%" style="max-width: 100%;"></a></th>
+<th><a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/gami03"><img src="https://avatars.githubusercontent.com/u/128332485?v=4" width="100%" style="max-width: 100%;"></a></th>
+<th><a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/CCTTBG"><img src=https://avatars.githubusercontent.com/u/126045264?v=4" width="100%" style="max-width: 100%;"></a></th>
 <th><a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/yezzii"><img src="https://avatars.githubusercontent.com/u/118273737?v=4" width="100%" style="max-width: 100%;"></a></th>
 <th><a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/harim-000"><img src="https://avatars.githubusercontent.com/u/81612425?v=4" width="100%" style="max-width: 100%;"></a></th>
 </tr>
