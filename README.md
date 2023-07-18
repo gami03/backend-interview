@@ -11,6 +11,8 @@
 <th><a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/yezzii"><img src="https://avatars.githubusercontent.com/u/118273737?v=4" width="100%" style="max-width: 100%;"></a></th>
 <th><a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/harim-000"><img src="https://avatars.githubusercontent.com/u/81612425?v=4" width="100%" style="max-width: 100%;"></a></th>
 </tr>
+<th><a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/Jiyeong2"><img src="https://avatars.githubusercontent.com/u/81612425?v=4" width="100%" style="max-width: 100%;"></a></th>
+</tr>  
 </thead>
 <tbody>
 <tr>
@@ -19,6 +21,7 @@
 <td><a href="https://github.com/CCTTBG">CCTTBG</a></td>
 <td><a href="https://github.com/yezzii">yezzii</a></td>
 <td><a href="https://github.com/harim-000">harim-000</a></td>
+<td><a href="https://github.com/Jiyeong2">Jiyeong2</a></td>
 </tr>
 </tbody>
 </table>
